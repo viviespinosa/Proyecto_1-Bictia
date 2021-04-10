@@ -1,0 +1,11 @@
+@media (min-width: 500px){
+    .imagen {
+        width: 30%;
+        border: 2px solid #000;
+    }
+}
+@media (min-width:700px){
+    .imagen {
+        width: 50%;
+    }
+}

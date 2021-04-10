@@ -1,0 +1,16 @@
+.contenedor-flex {
+    display: flex;       
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100px;
+   
+}
+
+.elemento {    
+    width: 24%;    
+    height: 50px;
+    border: 1px solid black;
+    background-color: rgb(105, 105, 105);    
+    text-align: center;
+
+}
